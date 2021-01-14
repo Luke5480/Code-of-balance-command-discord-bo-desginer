@@ -1,2 +1,2 @@
-# Code-of-balance-command-discord-bo-desginer
+# Code-of-encomy-command-discord-bo-desginer
 :D
