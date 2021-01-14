@@ -1,0 +1,5 @@
+$textSplit[$message; ]
+$setUserVar[💲money;$sum[$getUserVar[💲money];$random[0;100]]]
+$title[*$username* got:]
+$color[$random[10000;9999999]]
+$description[$random[0;100] :moneybag: Congratulations :)]
