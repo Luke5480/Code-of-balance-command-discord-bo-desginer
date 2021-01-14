@@ -1,0 +1,5 @@
+$nomention
+$title[Your Account Balance is here :point_down: :point_down: ]
+$description[Cash On Hand: $getUserVar[money]
+Bank:$getUserVar[bank]]
+$footer[$username Balance is here :point_up_2: :point_up_2:]
